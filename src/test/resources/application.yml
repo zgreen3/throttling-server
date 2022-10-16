@@ -1,0 +1,6 @@
+server:
+  port: 8888
+
+request.limit.params:
+  max_number_of_ip_requests_in_x_minutes: 2
+  time_limit_in_minutes: 1
